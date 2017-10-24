@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<class>
+   <student rollno = "123">
+      <firstname>Nguyễn Văn</firstname>
+      <lastname>Tèo</lastname>
+      <nickname>Cu Tèo</nickname>
+      <marks>8.5</marks>
+   </student>
+   
+   <student rollno = "456">
+      <firstname>Trần Văn</firstname>
+      <lastname>Tồ</lastname>
+      <nickname>Cu Tồ</nickname>
+      <marks>9.5</marks>
+   </student>
+   
+   <student rollno = "789">
+      <firstname>Lê Văn</firstname>
+      <lastname>Tý</lastname>
+      <nickname>Cu Tý</nickname>
+      <marks>9.0</marks>
+   </student>
+</class>
